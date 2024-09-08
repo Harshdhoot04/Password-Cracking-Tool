@@ -4,6 +4,8 @@
 
 The Password Cracking Tool is an application designed to demonstrate password cracking techniques using a graphical interface. The tool supports both brute force and dictionary attacks for cracking passwords. It features a real-time progress indicator and a cancel button to stop the cracking process if needed. Additionally, it includes a password strength checker to evaluate the complexity of the input password.
 
+![Screenshot of Password Cracking Tool](screenshots/screenshot.png)
+
 ## Features
 
 - **Brute Force Attack**: Attempts to crack the password by trying all possible combinations within a specified length.
